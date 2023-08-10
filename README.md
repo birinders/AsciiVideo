@@ -23,3 +23,8 @@ The script will automatically check the aspect ratio of the incoming video strea
 
 ### And that's it! 
 #### If everything has been set up correctly, you should now be seeing yourself on the terminal.
+<p align = "center">
+  <img src="https://user-images.githubusercontent.com/102192983/257642201-fd6b3d42-ab72-4c85-96b5-8322ca522bfd.gif" alt="Hello" width = 500>
+  <br>
+  <sub>Meet Birinder: The code wizard who turns coffee into Pythonic spells and errors into solutions!</sub>
+</p>
