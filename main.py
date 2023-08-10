@@ -119,4 +119,4 @@ while True:
 video_capture.release()
 # Destroy all the windows
 cv2.destroyAllWindows()
-print("hello")
+# print("hello")
