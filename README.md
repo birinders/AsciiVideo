@@ -1,6 +1,6 @@
 # AsciiVideo
 ## See (for) yourself on the terminal!
-Run ```pip install -r requirements.txt``` to get started, or check out the C++ implementation here.
+Run ```pip install -r requirements.txt``` to get started, or check out the C++ implementation [here](https://github.com/birinders/AsciiVideoCPP "AsciiVideoCPP").
 
 AsciiVideo--Py is a very simple project at heart-
 
