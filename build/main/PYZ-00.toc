@@ -1,4 +1,4 @@
-('C:\\Birinder\\Programs\\Python\\MiniProjects\\AsciiVideo\\build\\AsciiVideo\\PYZ-00.pyz',
+('C:\\Birinder\\Programs\\Python\\MiniProjects\\AsciiVideo\\build\\main\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\__future__.py',
    'PYMODULE'),
