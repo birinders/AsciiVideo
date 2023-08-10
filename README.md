@@ -20,6 +20,7 @@ Ratio correction is an extremely important step for this project to work correct
 </p>
 
 The script will automatically check the aspect ratio of the incoming video stream, and readjust the output to match the input aspect ratio.
+The terminal is automatically resized upon startup, such that no unnecessary black space surrounds the output.
 
 ### And that's it! 
 #### If everything has been set up correctly, you should now be seeing yourself on the terminal.
