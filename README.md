@@ -2,7 +2,7 @@
 ## See (for) yourself on the terminal!
 Run ```pip install -r requirements.txt``` to get started, or check out the C++ implementation [here](https://github.com/birinders/AsciiVideoCPP "AsciiVideoCPP").
 
-AsciiVideo--Py is a very simple project at heart-
+### AsciiVideo--Py is a very simple project at heart-
 
 Take what you see, and show it on the terminal. The project uses OpenCV library in order to convert anything your webcam captures from a series of colourful dots to a series of black and white letters. The program uses the cv2 module to capture data from any camera connected to your device, and then converts it into a b&w image. This allows us to index every pixel in this image array, and convert it into suitable ascii characters according to their brightness.
 
