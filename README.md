@@ -20,7 +20,7 @@ Ratio correction is an extremely important step for this project to work correct
 </p>
 
 The script will automatically check the aspect ratio of the incoming video stream, and readjust the output to match the input aspect ratio.
-The terminal is automatically resized upon startup, such that no unnecessary black space surrounds the output.
+The terminal window is automatically resized upon startup, such that no unnecessary black space surrounds the output.
 
 ### And that's it! 
 #### If everything has been set up correctly, you should now be seeing yourself on the terminal.
@@ -29,3 +29,8 @@ The terminal is automatically resized upon startup, such that no unnecessary bla
   <br>
   <sub>Meet Birinder: The code wizard who turns coffee into Pythonic spells and errors into solutions!</sub>
 </p>
+
+- Notes-
+1. If text appears out of place, try shrinking the terminal letter size by holding ctrl + mousewheel down.
+2. Make sure to set the terminal font to a monospace font. This is the default behaviour for most terminals, and is the core requirement for the output to be aligned.
+3. Try manually adjusting the letter_height and letter_width variables if the image appears too tall or too wide.
