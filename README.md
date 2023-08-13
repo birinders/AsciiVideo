@@ -32,7 +32,6 @@ The terminal window is automatically resized upon startup, such that no unnecess
 </p>
 <!--![33bb9b7b-8c5f-444f-b4c7-6904d61168c6](https://github.com/birinders/AsciiVideo/assets/102192983/a960305f-0ffb-45bb-8933-1bc2cb1a800e)-->
 <!--![33bb9b7b-8c5f-444f-b4c7-6904d61168c6](https://github.com/birinders/AsciiVideo/assets/102192983/450f57a5-f302-4e4f-be79-c34ef6724570)-->
-![dark light](https://github.com/birinders/AsciiVideo/assets/102192983/450f57a5-f302-4e4f-be79-c34ef6724570)
 
 - Notes-
 1. If text appears out of place, try shrinking the terminal letter size by holding ctrl + mousewheel down.
