@@ -11,7 +11,7 @@ Eg- A pixel with high brightness value is converted to a character with a larger
 - Note-
 The default behaviour is to choose the external camera before the built in camera. You can change this behaviour in the main.py file.
 
-Ratio correction is an extremely important step for this project to work correctly. Since we know that characters are not squares, but are taller than they are wide, like a vertical rectangle, we need to account for this differnce factor in order to produce the outputs in the correct ratio.
+Ratio correction is an extremely important step for this project to work correctly. Since we know that characters are not squares, but are taller than they are wide, like a vertical rectangle, we need to account for this difference factor in order to produce the outputs in the correct ratio.
 
 <p>The above can be calculated using the following formula- <br>
   <p align = "center">
