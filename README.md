@@ -36,4 +36,4 @@ The terminal window is automatically resized upon startup, such that no unnecess
 - Notes-
 1. If text appears out of place, try shrinking the terminal letter size by holding ctrl + mousewheel down.
 2. Make sure to set the terminal font to a monospace font. This is the default behaviour for most terminals, and is the core requirement for the output to be aligned.
-3. Try manually adjusting the letter_height and letter_width variables if the image appears too tall or too wide.
+3. Try manually adjusting the `letter_height` and `letter_width` variables if the image appears too tall or too wide.
